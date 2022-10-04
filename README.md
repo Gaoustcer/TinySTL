@@ -17,3 +17,10 @@ Implement of Own STL
 #### 嵌套的命名空间
 #### 编译器眼中的命名空间
 namespace名称通过function mangling编码到跳转目标名称中
+## 开发计划和日志
+### 开发计划
+1. 常见数据结构`vector,string,list,deque,set,map,pair,queue,stack`(1 month)
+2. type traits(1 week)
+3. 空间配置器(1 week)
+4. Algorithm,包括`sort,fill,find,min,max`等
+5. 其它：仿函数
